@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1384358035000 621 b4d76a2aa5a716cdf00ee4410094e93cd825609b /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R$id.class
+1384358035000 494 c19bcb48363475fe21f20fa52315a2fe6258463a /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/BuildConfig.class
+1384358035000 755 847f35033bf206888fbd7c98cc2db344be28243a /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R.class
+1384358035000 1006 8571cef539a40e5adcb2ca9dce86e83b76a2dbd7 /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/QuizActivity$3.class
+1384358035000 439 056633f00a2541d927a653e3ea59fd1fb5c842cc /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R$menu.class
+1384358035000 927 90fa3943451b5835f3eb1cada40f6c09aefb54b8 /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/QuizActivity$2.class
+1384358035000 518 c412d7bdb09cb4d2d21a1cec128b4801f815a7f5 /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R$drawable.class
+1384358035000 483 3b16da92b80b8b644b4a512fd835013ab24744ad /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R$layout.class
+1384358035000 473 49dded39d69d5af52c4fa65621bbb45e3d42947a /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R$style.class
+1384358035000 829 650ff6a9742180dd85e2279f04b96841f92e20f0 /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/TrueFalse.class
+1384357961000 385685 48c94ae70fa65718b382098237806a5909bb096e /Users/stevecho/work/android/android-practice/GeoQuizProject/libs/android-support-v4.jar
+1384358035000 927 e0b60ba174635baef0c8a00287d8dca0847f455c /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/QuizActivity$1.class
+1384358035000 1016 236cdf9f923607b6162b3e0306f60f10a1f53ebd /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R$string.class
+1384358035000 3885 6f318a557c94d4d5a3e4a1f75f4d50b4e40b4ecd /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/QuizActivity.class
+1384358035000 382 2ab3ce388c33cde742293d3816b6da02027d3684 /Users/stevecho/work/android/android-practice/GeoQuizProject/build/classes/debug/com/bignerdranch/android/geoquiz/R$attr.class

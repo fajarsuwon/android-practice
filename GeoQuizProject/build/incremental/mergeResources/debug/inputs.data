@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1384357961000 231 0f4bd520b8765f22a90c4253964bfb71520afc5c /Users/stevecho/work/android/android-practice/GeoQuizProject/res/menu/activity_quiz.xml
+1384357961000 1131 8674951eab569360621b2ca14fa54e54be10379b /Users/stevecho/work/android/android-practice/GeoQuizProject/res/values/strings.xml
+1384357961000 748 6027bc105aa5e1724b281a9385c4c9c593bc85c1 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/arrow_left.png
+1384357961000 368 3eb630f868d863789a8a0be531bf8f47e03de350 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/values-v14/styles.xml
+1384357961000 747 97567ee12ea4388b17f75b103b897f315f5a543c /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/arrow_right.png
+1384357961000 1392 cb02741a593dd4592fc191a81e2c7f8270a57570 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/arrow_left.png
+1384357961000 9397 4a5a9affbb731f195fc18fea78d51be7db7536a2 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/ic_launcher.png
+1384357961000 5237 7761bceaf18ed25cdba5f34bf00a55616d078acf /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/ic_launcher.png
+1384357961000 758 c7d7569effbd670486ef743555eb8ab6f21da3f5 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout/activity_cheat.xml
+1384357961000 653 603aeb6aeb73a4896dffa166fa6ccdcd00de7dcc /Users/stevecho/work/android/android-practice/GeoQuizProject/res/values/styles.xml
+1384357961000 14383 82acdd75e3fcc36026109406625edc69d4d7212d /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/ic_launcher.png
+1384357961000 1254 a9992123f26c2fee223cfd0e8859797c01128956 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout-land/activity_quiz.xml
+1384357961000 311 349b7a0015d0556b0c9becd42f3dd051809066e2 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/values-v11/styles.xml
+1384357961000 3110 4d8f540fc8539fcdcb5ce67be9b6fb7eb334f9e6 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/arrow_left.png
+1384357961000 3127 0b9c598a5202379f0a0626b86f4f5c678a278681 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/arrow_right.png
+1384357961000 1417 8e198535d3f2bd9e1abd152e8ec9c0917dc80d06 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/arrow_right.png
+1384357961000 1171 5cdb8342dce16f514af5b734c8f6164028a65b94 /Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout/activity_quiz.xml
