@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:gravity="center"
-    >
+    android:gravity="center">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="24dp"
-        android:text="@string/warning_text"
-        android:layout_gravity="center_horizontal" />
+        android:text="@string/warning_text" />
+
+    <TextView
+        android:id="@+id/answerTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="24dp" />
+
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/show_answer_button"
-        android:id="@+id/showAnswerButton"
-        android:layout_gravity="center_horizontal" />
+        android:id="@+id/show_answer_button" />
 
-</LinearLayout><!-- From: file:/Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout/activity_cheat.xml -->
+</LinearLayout><!-- From: file:/Users/steve/work/android/android-practice/GeoQuizProject/res/layout/activity_cheat.xml -->

@@ -30,6 +30,16 @@
   </LinearLayout>
 
   <Button
+    android:id="@+id/cheat_button"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/cheat_button"
+    android:layout_gravity="bottom|center"
+    android:drawablePadding="4dp"
+    />
+
+
+  <Button
     android:id="@+id/next_button"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -40,4 +50,4 @@
     />
 
 </FrameLayout>
-<!-- From: file:/Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout-land/activity_quiz.xml -->
+<!-- From: file:/Users/steve/work/android/android-practice/GeoQuizProject/res/layout-land/activity_quiz.xml -->

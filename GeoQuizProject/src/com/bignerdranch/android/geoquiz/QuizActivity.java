@@ -17,6 +17,7 @@ public class QuizActivity extends Activity {
     Button mTrueButton;
     Button mFalseButton;
     Button mNextButton;
+    Button mCheatButton;
 
     TextView mQuestionTextView;
 
@@ -58,7 +59,7 @@ public class QuizActivity extends Activity {
 
         mQuestionTextView = (TextView)findViewById(R.id.question_text_view);
 
-        mTrueButton = (Button)findViewById(R.id.question_text_view);
+        mTrueButton = (Button)findViewById(R.id.true_button);
         mTrueButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -86,7 +87,14 @@ public class QuizActivity extends Activity {
         if (savedInstanceState != null) {
             mCurrentIndex = savedInstanceState.getInt(KEY_INDEX, 0);
         }
-        
+
+        mCheatButton = (Button)findViewById(R.id.cheat_button);
+        mCheatButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+            }
+        });
+
         updateQuestion();
     }
 
