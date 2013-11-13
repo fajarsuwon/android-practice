@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/steve/work/android/android-practice/GeoQuizProject/assets" />
+        <source path="/Users/stevecho/work/android/android-practice/GeoQuizProject/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/steve/work/android/android-practice/GeoQuizProject/build-types/debug/assets" />
+        <source path="/Users/stevecho/work/android/android-practice/GeoQuizProject/build-types/debug/assets" />
     </dataSet>
 
 </merger>

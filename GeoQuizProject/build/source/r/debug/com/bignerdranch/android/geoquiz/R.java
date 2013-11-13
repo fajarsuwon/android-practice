@@ -33,7 +33,7 @@ public final class R {
         public static final int activity_quiz=0x7f060000;
     }
     public static final class string {
-        /**  From: file:/Users/steve/work/android/android-practice/GeoQuizProject/res/values/strings.xml 
+        /**  From: file:/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values/strings.xml 
          */
         public static final int app_name=0x7f040000;
         public static final int cheat_button=0x7f040001;
@@ -54,15 +54,15 @@ public final class R {
         public static final int warning_text=0x7f040010;
     }
     public static final class style {
-        /**  From: file:/Users/steve/work/android/android-practice/GeoQuizProject/res/values/styles.xml 
+        /**  From: file:/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values/styles.xml 
 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- From: file:/Users/steve/work/android/android-practice/GeoQuizProject/res/values-v11/styles.xml 
+ From: file:/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values-v11/styles.xml 
  API 11 theme customizations can go here. 
- From: file:/Users/steve/work/android/android-practice/GeoQuizProject/res/values-v14/styles.xml 
+ From: file:/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values-v14/styles.xml 
  API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f050000;

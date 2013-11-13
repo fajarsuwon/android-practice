@@ -2,74 +2,74 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/steve/work/android/android-practice/GeoQuizProject/res" >
+        <source path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res" >
             <file
                 name="arrow_left"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/arrow_left.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/arrow_left.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="arrow_right"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/arrow_right.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/arrow_right.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
                 name="arrow_left"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/arrow_left.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/arrow_left.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="arrow_right"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/arrow_right.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/arrow_right.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
                 name="arrow_left"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/arrow_left.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/arrow_left.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="arrow_right"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/arrow_right.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/arrow_right.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
                 name="activity_cheat"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/layout/activity_cheat.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout/activity_cheat.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_quiz"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/layout/activity_quiz.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout/activity_quiz.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_quiz"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/layout-land/activity_quiz.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout-land/activity_quiz.xml"
                 qualifiers="land"
                 type="layout" />
             <file
                 name="activity_quiz"
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/menu/activity_quiz.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/menu/activity_quiz.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/values/strings.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values/strings.xml"
                 qualifiers="" >
                 <string name="cheat_button" >Cheat!
                 </string>
@@ -107,7 +107,7 @@
                 </string>
             </file>
             <file
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/values/styles.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values/styles.xml"
                 qualifiers="" >
 
                 <style
@@ -129,7 +129,7 @@
                 </style>
             </file>
             <file
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/values-v11/styles.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values-v11/styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -140,7 +140,7 @@
                 </style>
             </file>
             <file
-                path="/Users/steve/work/android/android-practice/GeoQuizProject/res/values-v14/styles.xml"
+                path="/Users/stevecho/work/android/android-practice/GeoQuizProject/res/values-v14/styles.xml"
                 qualifiers="v14" >
 
                 <style
@@ -151,10 +151,10 @@
                 </style>
             </file>
         </source>
-        <source path="/Users/steve/work/android/android-practice/GeoQuizProject/build/res/rs/debug" />
+        <source path="/Users/stevecho/work/android/android-practice/GeoQuizProject/build/res/rs/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/steve/work/android/android-practice/GeoQuizProject/build-types/debug/res" />
+        <source path="/Users/stevecho/work/android/android-practice/GeoQuizProject/build-types/debug/res" />
     </dataSet>
 
 </merger>

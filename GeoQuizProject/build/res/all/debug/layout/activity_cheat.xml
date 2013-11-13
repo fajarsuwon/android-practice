@@ -24,4 +24,4 @@
         android:text="@string/show_answer_button"
         android:id="@+id/show_answer_button" />
 
-</LinearLayout><!-- From: file:/Users/steve/work/android/android-practice/GeoQuizProject/res/layout/activity_cheat.xml -->
+</LinearLayout><!-- From: file:/Users/stevecho/work/android/android-practice/GeoQuizProject/res/layout/activity_cheat.xml -->

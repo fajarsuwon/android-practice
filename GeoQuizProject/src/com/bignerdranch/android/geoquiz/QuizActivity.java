@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
+import android.content.Intent;
 
 public class QuizActivity extends Activity {
 
@@ -92,6 +93,8 @@ public class QuizActivity extends Activity {
         mCheatButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent i = new Intent(QuizActivity.this, CheatActivity.class);
+                startActivity(i);
             }
         });
 
