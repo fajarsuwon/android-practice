@@ -19,7 +19,7 @@ public class Crime {
     }
 
 
-    public UUID getmId() {
+    public UUID getId() {
         return mId;
     }
 
@@ -29,6 +29,10 @@ public class Crime {
 
     public void setTitle(String title) {
         mTitle = title;
+    }
+
+    public String getTitle() {
+        return mTitle;
     }
 
     public Crime() {
@@ -41,5 +45,10 @@ public class Crime {
 
     public void setSolved(boolean mSolved) {
         this.mSolved = mSolved;
+    }
+
+    @Override
+    public String toString() {
+        return "title: " + mTitle  + "date: " + mDate;
     }
 }
