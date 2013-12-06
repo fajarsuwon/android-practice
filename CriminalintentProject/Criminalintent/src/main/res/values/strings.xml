@@ -12,5 +12,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="date_picker_title">Date of crime:</string>
+    <string name="new_crime">Create</string>
+    <string name="title_activity_test">Test</string>
 
 </resources>
