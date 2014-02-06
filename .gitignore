@@ -1,0 +1,149 @@
+**/.DS_Store
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+
+# Android Studio
+.idea/
+.gradle
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
+
+# # Gradle config
+# .gradle/1.9/taskArtifacts/cache.properties.lock
+# .gradle/1.9/taskArtifacts/fileHashes.bin
+# .gradle/1.9/taskArtifacts/fileSnapshots.bin
+# .gradle/1.9/taskArtifacts/outputFileStates.bin
+# .gradle/1.9/taskArtifacts/taskArtifacts.bin
+# 
+# 
+# 
+# 
+# 
+
+
+
+
+
+
+
+
+
+
+# Copyright: Benjamin Weiss (keyboardsurfer) https://github.com/keyboardsurfer
+# Under CC-BY-SA V3.0 (https://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+# built application files
+*.apk
+*.ap_
+*.jar
+
+# lint folder
+lint
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+classes/
+gen-external-apklibs/
+
+# maven output folder
+target
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+.metadata
+.settings
+
+# IntelliJ files
+.idea
+*.iml
+
+# OSX files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# vi swap files
+*.swp
+
+# backup files
+*.bak
+
+# gradle directory
+.gradle
+gradlew
+gradlew.bat
+gradle/
+build/
+
+#for oh-my-zsh jira plugin (https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#jira)
+.jira-url
+atlassian-ide-plugin.xml
+
+
+.idea/
+
+
+xanedu-android.iml

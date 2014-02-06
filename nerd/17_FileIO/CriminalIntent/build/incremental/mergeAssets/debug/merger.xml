@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/steve/work/android/android-practice/nerd/17_FileIO/CriminalIntent/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/steve/work/android/android-practice/nerd/17_FileIO/CriminalIntent/build-types/debug/assets" />
+    </dataSet>
+
+</merger>
