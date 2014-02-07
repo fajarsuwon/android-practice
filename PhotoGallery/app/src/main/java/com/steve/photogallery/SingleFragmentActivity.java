@@ -1,4 +1,4 @@
-package com.bignerdranch.android.remotecontrol;
+package com.steve.photogallery;
 
 import android.os.Bundle;
 
